@@ -1,5 +1,5 @@
 # 副業やっていき
-author: @haito_linux
+@haito_linux
 
 ---
 
@@ -14,3 +14,13 @@ author: @haito_linux
 ---
 
 # 自己紹介
+
+名前 : 大塚颯斗
+HN   : HaiTo
+Github : haito
+好きな言語 Ruby
+好きなパターン Command
+好きなエディタ intellj || emacs
+
+# 自己紹介
+- 
